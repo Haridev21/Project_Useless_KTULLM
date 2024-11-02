@@ -65,6 +65,7 @@ Add your project images here to showcase the features of your application.
 
 ![Splash Screen](appimg/SplashScreen.png)
 ![Login Page](appimg/Login.png)
+![ForgotPassword](appimg/SignUp)
 ![Chat Interface](appimg/chat_interface.png)
 
 ## License
