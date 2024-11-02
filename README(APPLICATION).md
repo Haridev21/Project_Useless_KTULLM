@@ -65,7 +65,7 @@ For additional help getting started with Flutter development, view the [online d
 <img src="appimg/SignUp.png" alt="Sign Up" width="300" />
 <img src="appimg/ForgetPassword.png" alt="Forgot Password" width="300" />
 <img src="appimg/chat_interface.png" alt="Chat Interface" width="300" />
-<img src="appimg/firebase.png" alt="Firebase" width="300" />
+<img src="appimg/firebase.png" alt="Firebase" width="450" />
 
 
 
