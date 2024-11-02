@@ -1,7 +1,7 @@
 <img width="1280" alt="rea
 dme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# UseLess_Project_KTULLM
+# USELESS_PROJECT_KTULLM
 
 # [KTU LLM]
 
