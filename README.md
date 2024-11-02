@@ -2,6 +2,15 @@
 
 # [KTU LLM]
 
+# IMPORTANT : Trying to execute this as whole code might be very confusing so please feel fee to contact us for support
+
+Haridev M :
+PH : 6282427885
+
+Sabari Vijayan:
+PH : 8590483660
+
+
 ## BASIC DETAILS
 ### TEAM NAME: Greyscale
 
