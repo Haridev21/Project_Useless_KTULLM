@@ -61,33 +61,12 @@ For additional help getting started with Flutter development, view the [online d
 
 ## Screenshots
 
-Add your project images here to showcase the features of your application.
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="flex: 1; margin: 10px;">
-        <img src="appimg/SplashScreen.png" alt="Splash Screen" width="300" />
-        <p>Splash Screen</p>
-    </div>
-    <div style="flex: 1; margin: 10px;">
-        <img src="appimg/Login.png" alt="Login Page" width="300" />
-        <p>Login Page</p>
-    </div>
-    <div style="flex: 1; margin: 10px;">
-        <img src="appimg/SignUp.png" alt="Sign Up" width="300" />
-        <p>Sign Up</p>
-    </div>
-    <div style="flex: 1; margin: 10px;">
-        <img src="appimg/ForgetPassword.png" alt="Forgot Password" width="300" />
-        <p>Forgot Password</p>
-    </div>
-    <div style="flex: 1; margin: 10px;">
-        <img src="appimg/chat_interface.png" alt="Chat Interface" width="300" />
-        <p>Chat Interface</p>
-    </div>
-    <div style="flex: 1; margin: 10px;">
-        <img src="appimg/firebase.png" alt="Firebase" width="300" />
-        <p>Firebase</p>
-    </div>
-</div>
+<img src="appimg/SplashScreen.png" alt="Splash Screen" width="300" /> <img src="appimg/Login.png" alt="Login Page" width="300" />
+<img src="appimg/SignUp.png" alt="Sign Up" width="300" />
+<img src="appimg/ForgetPassword.png" alt="Forgot Password" width="300" />
+<img src="appimg/chat_interface.png" alt="Chat Interface" width="300" />
+<img src="appimg/firebase.png" alt="Firebase" width="300" />
+
 
 
 ## License
