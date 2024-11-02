@@ -8,10 +8,9 @@ dme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9
 # IMPORTANT : Trying to execute this as whole code might be very confusing so please feel fee to contact us for support
 
 Haridev M :
-PH : 6282427885
-
+email: haridevm84@gmail.com
 Sabari Vijayan:
-PH : 8590483660
+
 
 
 ## BASIC DETAILS
