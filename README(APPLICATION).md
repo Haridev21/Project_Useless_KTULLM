@@ -63,12 +63,12 @@ For additional help getting started with Flutter development, view the [online d
 
 Add your project images here to showcase the features of your application.
 
-![Splash Screen](appimg/SplashScreen.png)
-![Login Page](appimg/Login.png)
-![SignUp](appimg/SignUp.png)
-![ForgotPassword](appimg/ForgetPassword.png)
-![Chat Interface](appimg/chat_interface.png)
-![FireBase](appimg/firebase.png)
+<img src="appimg/SplashScreen.png" alt="Splash Screen" width="300" />
+<img src="appimg/Login.png" alt="Login Page" width="300" />
+<img src="appimg/SignUp.png" alt="Sign Up" width="300" />
+<img src="appimg/ForgetPassword.png" alt="Forgot Password" width="300" />
+<img src="appimg/chat_interface.png" alt="Chat Interface" width="300" />
+<img src="appimg/firebase.png" alt="Firebase" width="300" />
 
 ## License
 
