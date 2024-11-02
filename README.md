@@ -66,12 +66,6 @@ Using a specialized language model, this tool enables easy study and revision of
   ### Project Documentation
   For Software
 
-  # Sreenshots
-  ![WhatsApp Image 2024-11-02 at 7 09 41 AM](https://github.com/user-attachments/assets/b3e8f8af-9d30-46db-bc66-0d3d4c5ad688)
-  ![WhatsApp Image 2024-11-02 at 7 09 33 AM](https://github.com/user-attachments/assets/ab478d00-d1bc-44a4-b349-0f40b0b04391)
-  ![WhatsApp Image 2024-11-02 at 7 09 23 AM](https://github.com/user-attachments/assets/9b7893e5-72b2-4a86-ac58-b12369c2579f)
-
-  *these are the screenshots of the wandb report
 
   # Diagrams
 
