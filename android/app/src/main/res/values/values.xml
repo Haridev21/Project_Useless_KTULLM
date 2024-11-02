@@ -1,0 +1,11 @@
+<resources>
+    <!-- Optional: Web client ID if you're using Web Authentication -->
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+
+    <!-- Firebase configuration values -->
+    <string name="firebase_database_url">https://chatchat-c3769.firebasestorage.app</string>
+    <string name="gcm_defaultSenderId">943036102412</string>
+    <string name="google_api_key">AIzaSyDoJ5WR4uUFgR3t53o4RX63WnELcPMr3WE</string>
+    <string name="google_app_id">1:943036102412:android:b0c731cf90fd7e6c123b29</string>
+    <string name="project_id">chatchat-c3769</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943036102412",
+    "project_id": "chatchat-c3769",
+    "storage_bucket": "chatchat-c3769.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943036102412:android:b0c731cf90fd7e6c123b29",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoJ5WR4uUFgR3t53o4RX63WnELcPMr3WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
