@@ -66,6 +66,13 @@ Using a specialized language model, this tool enables easy study and revision of
   ### Project Documentation
   For Software
 
+  ## Screenshots
+<img src="appimg/SplashScreen.png" alt="Splash Screen" width="300" /> <img src="appimg/Login.png" alt="Login Page" width="300" />
+<img src="appimg/SignUp.png" alt="Sign Up" width="300" />
+<img src="appimg/ForgetPassword.png" alt="Forgot Password" width="300" />
+<img src="appimg/chat_interface.png" alt="Chat Interface" width="300" />
+<img src="appimg/firebase.png" alt="Firebase" width="450" />
+
 
   # Diagrams
 
