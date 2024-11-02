@@ -64,8 +64,8 @@ For additional help getting started with Flutter development, view the [online d
 Add your project images here to showcase the features of your application.
 
 ![Splash Screen](appimg/SplashScreen.png)
-![Login Page](images/login_page.png)
-![Chat Interface](images/chat_interface.png)
+![Login Page](appimg/Login.png)
+![Chat Interface](appimg/chat_interface.png)
 
 ## License
 
