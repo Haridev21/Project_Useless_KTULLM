@@ -93,9 +93,12 @@ Using a specialized language model, this tool enables easy study and revision of
 
   ### Project Demo
 
-  # Video
+  # Video Proof
+  [Watch Demo Video](appimg/video.mp4)
 
   # Additional Demos
+  
+
 
 For additional demos please refer to these resources
 
