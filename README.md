@@ -11,9 +11,9 @@ Haridev M :
 email: haridevm84@gmail.com
 Sabari Vijayan:
 -->
-  # Video Proof
-  [Watch Demo Video](appimg/video.mp4)
 
+##Updated link to video proof
+ https://drive.google.com/drive/folders/10iJcUqTLD9Orh22DwsqN-QXHk6Pq3SvX?usp=drive_link
 
 ## BASIC DETAILS
 ### TEAM NAME: Greyscale
