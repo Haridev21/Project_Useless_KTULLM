@@ -11,6 +11,8 @@ Haridev M :
 email: haridevm84@gmail.com
 Sabari Vijayan:
 -->
+  # Video Proof
+  [Watch Demo Video](appimg/video.mp4)
 
 
 ## BASIC DETAILS
@@ -93,8 +95,6 @@ Using a specialized language model, this tool enables easy study and revision of
 
   ### Project Demo
 
-  # Video Proof
-  [Watch Demo Video](appimg/video.mp4)
 
   # Additional Demos
   
