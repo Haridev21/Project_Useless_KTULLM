@@ -4,13 +4,13 @@ dme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9
 # USELESS_PROJECT_KTULLM
 
 # [KTU LLM]
-
+<!-- 
 # IMPORTANT : Trying to execute this as whole code might be very confusing so please feel fee to contact us for support
 
 Haridev M :
 email: haridevm84@gmail.com
 Sabari Vijayan:
-
+-->
 
 
 ## BASIC DETAILS
