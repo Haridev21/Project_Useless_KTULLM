@@ -118,7 +118,7 @@ Our project was brought to life through the dedicated efforts and expertise of e
 - **[Anna]**: Curated and prepared the dataset for training, also contributing to the fine-tuning process of the LLM, which was critical to the model's ability to offer tailored responses aligned with the KTU curriculum.
 
  
-    ---
+---
   
 Made with ❤️ and a sense of humor at **TinkerHub Useless Projects**
 
