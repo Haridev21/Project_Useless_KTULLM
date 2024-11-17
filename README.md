@@ -1,3 +1,5 @@
+## 🎥 [Click here for demo video](https://drive.google.com/drive/folders/10iJcUqTLD9Orh22DwsqN-QXHk6Pq3SvX?usp=drive_link "🔼 Google Drive - PinneCheyyam Demo 🎥") 🎥
+
 <img width="1280" alt="rea
 dme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
@@ -12,8 +14,7 @@ email: haridevm84@gmail.com
 Sabari Vijayan:
 -->
 
-## Updated link to video proof
- https://drive.google.com/drive/folders/10iJcUqTLD9Orh22DwsqN-QXHk6Pq3SvX?usp=drive_link
+
 
 ## BASIC DETAILS
 ### TEAM NAME: Greyscale
